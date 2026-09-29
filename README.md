@@ -5,15 +5,22 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 ## Niveau 1
 1. Configuration Git
-(capture)
+![Configuration des dépôts distants](captures/upstream.png)
+
 2. Branche de travail
-(capture)
+
+![Création de la branche](captures/creation_de_la_branche.png)
+
 3. Historique des commits
-(capture)
+![Création du commit](captures/creation_du_commit.png)
+
 4. Pull Request
-(capture)
+![Pull Request](captures/pull_request.png)
+
 5. Revue croisée
-(capture)
+![Revue du collaborateur](captures/revu_du_collaborateur.png)
+
+![Correction après la revue](<captures/push_apres_la _remarque_du_collaborateur.png>)
 
 ## Niveau 2
 6. Secret retiré du suivi
