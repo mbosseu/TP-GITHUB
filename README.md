@@ -24,15 +24,15 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 ## Niveau 2
 6. Secret retiré du suivi
-(capture)
+![alt text](<Screenshot 2026-09-29 121705.png>)
 7. Conflit résolu (marqueurs avant, graphe après)
-(capture)
+![alt text](<Screenshot 2026-09-29 110544.png>)
 8. Revert du bandeau promo
-(capture)
+![alt text](<Screenshot 2026-09-29 111048.png>)
 9. Issue fermée par une Pull Request
-(capture)
+![alt text](<Screenshot 2026-09-29 113758.png>)
 10. Protection de main et CI au vert
-(capture)
+![alt text](<Screenshot 2026-09-29 120107.png>)
 
 ## Cible mobile
 11. Commit distant récupéré et conflit résolu
